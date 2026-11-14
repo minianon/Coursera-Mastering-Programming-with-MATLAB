@@ -53,4 +53,6 @@ The data obtained from the [Coronavirus Resource Center at the Johns Hopkins Uni
 
 ### Contact
 
-If you’d like to connect, feel free to reach out — [Click here](https://minianonlink.vercel.app/tusharbhardwaj).<br/> Contributions are also welcomed. Please open a [pull-request](https://github.com/TuShArBhArDwA/Coursera-Mastering-Programming-with-MATLAB/compare) or an [issue](https://github.com/TuShArBhArDwA/Coursera-Mastering-Programming-with-MATLAB/issues/new) in this repository.
+If you’d like to connect, feel free to reach out — [Click here](https://link.minianon.in/tusharbhardwaj).<br/> Contributions are also welcomed. Please open a [pull-request](https://github.com/TuShArBhArDwA/Coursera-Mastering-Programming-with-MATLAB/compare) or an [issue](https://github.com/TuShArBhArDwA/Coursera-Mastering-Programming-with-MATLAB/issues/new) in this repository.
+
+If my work helps you, you can support it on [GitHub Sponsors](https://github.com/sponsors/minianon) · [Buy me a chai](https://buymeachai.ezee.li/minianon).
